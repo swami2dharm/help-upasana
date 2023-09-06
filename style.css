@@ -91,6 +91,7 @@ header nav ul li a{
 }
 header nav ul li a:hover{
     background-color: var(--themeRed);
+    border-radius: 3px;
 }
 .banner{
     min-height: 100vh;
